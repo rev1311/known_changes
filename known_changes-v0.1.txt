@@ -1,0 +1,66 @@
+Known Changes v0.1
+
+Home Page:
+
+    Navigation - worked on sticky header (broken functionality), set permanent on mobile
+
+    Blocks - a couple small changes, like removing text on hover, removing gradient masks, and zooms
+
+    newsletter in body - custom field connected to our own server that gets pushed to klaviyo (klaviyo broke and wasnt working)
+
+    newsletter in footer - same as above
+
+Pages(footer links):
+
+    Shipping Information - redesign for clarity of information and format
+
+    Returns & Exchanges - redesign / new page based on new information and formatting
+
+    Furniture Care - new page with 4 sub-pages for furniture care information and products
+
+        Wood Care - new page based on new care products and showing expertise
+
+        Leather Care - same as Wood
+
+        Fabric Care - same as Wood
+
+        Outdoor Care - same as Wood
+
+    Find A Store - built custom store pages (while hosted on Yext). Redesigned when Yext contract was not renewed. Currently being redesigned again (in w/ QA)
+
+    Celebrating 60 Years - built for 60yr anniversary, made in shopify 2.0
+
+    About us - same as 60yrs page
+
+    Our Story - same as 60yrs page
+
+    Delivery Terms & Conditions - redesign based on updated information and formatting
+
+    Careers - removed tabs and added machine readable files
+
+Product Display Pages:
+
+    (PDP was rebuilt when we switched from Fenix to Cypress)
+
+    Image Slider - custom built to match previous library, includes touch reactivity, 2 scrolling windows (main, thumbs), and recalculates math on window resize
+
+    Product Information Panel - layout slightly updated to focus on swatches/options (used to be at bottom)
+
+        Swatches/Options Panel - completely custom
+
+        Change Zip Panel - completely custom
+
+        Add to Cart CTA - completely custom
+
+    Details & Dimensions Tab - added custom code to inject extra information based on product (notes about unique patterns, bedding, etc)
+
+    Care Instructions Tab - added custom code to inject extra information based on product type (link to correct care page, if applicable)
+
+    Shipping Information Tab - redesign to show updated shipping information
+
+
+
+
+
+
+
