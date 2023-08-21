@@ -38,6 +38,8 @@ Pages(footer links):
 
     Careers - removed tabs and added machine readable files
 
+    VIP program - (now hidden) information landing page for in-store promotion
+
 Product Display Pages:
 
     (PDP was rebuilt when we switched from Fenix to Cypress)
@@ -57,6 +59,20 @@ Product Display Pages:
     Care Instructions Tab - added custom code to inject extra information based on product type (link to correct care page, if applicable)
 
     Shipping Information Tab - redesign to show updated shipping information
+
+    Back in Stock - added modal to input email for notification of a returning item when out of stock in zipcode
+
+Cart Page:
+
+    Worry Free Protection Program - added option to buy warranty (DA site)
+
+Tracking:
+
+    FB - had issues tracking, integration of app not working. added scripts manually to get data through
+
+    Pinterest - had to manually add script to checkout to be compliant with "verified merchant" program
+
+    Google - manually added code with assistance from Google to get proper tracking with Ads
 
 
 
