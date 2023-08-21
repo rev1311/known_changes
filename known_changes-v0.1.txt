@@ -38,7 +38,7 @@ Pages(footer links):
 
     Careers - removed tabs and added machine readable files
 
-    VIP program - (now hidden) information landing page for in-store promotion
+    VIP program - (now hidden, may return) information landing page for in-store promotion
 
 Product Display Pages:
 
